@@ -20,6 +20,14 @@ Make sure to run the .devcontainer/setup.sh script in the terminal to automatica
 
 ## Running the application in dev mode
 
+First, install the dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
 To run the development server use:
 
 ```bash
